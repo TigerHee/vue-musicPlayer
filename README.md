@@ -1,6 +1,6 @@
 # vue-music
 
-> music player
+> vue2.0 music player
 
 ## Build Setup
 

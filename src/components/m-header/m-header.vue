@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <div class="icon"></div>
-    <div class="text">tigerMusic</div>
+    <div class="text">tiger Music</div>
   </div>
 </template>
 
@@ -41,7 +41,6 @@ export default {}
       padding 12px
       font-size 20px
       color $color-theme
-
 </style>
 
 
