@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <div class="icon"></div>
+    <!--<div class="icon"></div>-->
     <div class="text">tiger Music</div>
   </div>
 </template>
