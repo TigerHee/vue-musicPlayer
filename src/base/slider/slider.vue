@@ -27,7 +27,7 @@
       },
       interval: {
         type: Number,
-        default: 3000
+        default: 4000
       }
     },
     data() {
